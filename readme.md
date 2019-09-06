@@ -23,7 +23,6 @@ _You **can** combine them_
    1. Item 3b
    
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-Format: ![Let me google that for ya](https://www.google.dk/)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
